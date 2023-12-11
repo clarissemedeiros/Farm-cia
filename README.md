@@ -1,0 +1,1 @@
+A Farmácia precisa aprimorar seu atendimento aos clientes e deseja otimizar o acesso às informações dos produtos disponíveis sendo assim, necessita o desenvolvimento de um banco de dados que armazene essas informações.
